@@ -34,6 +34,17 @@ body {
 
 }
 
+.Button {
+  width: 150px;
+}
+
+.Button:hover {
+  background-color: rgb(177, 78, 129);
+  transition: 0.7s;
+}
+
+
+
 .Description{
   background-color: rgba(180, 221, 231, 0.95);
   padding: 36px;
