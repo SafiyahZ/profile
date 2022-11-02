@@ -12,6 +12,7 @@ body {
   width: 200px;
   height: 200px;
   border-radius: 50%;
+  margin-bottom: 20px;
 }
 
 .Coding_Image {
@@ -21,7 +22,7 @@ body {
 
 .Opening {
   background-color: rgba(180, 221, 231, 0.95);
-  padding: 36px;
+  padding: 30px;
   width: 590px;
   border-radius: 10px;
   margin-bottom: 30px;
@@ -44,11 +45,10 @@ body {
 }
 
 
-
 .Description{
   background-color: rgba(180, 221, 231, 0.95);
-  padding: 36px;
-  width: 590px;
+  padding: 25px;
+  width: 600px;
   border-radius: 10px;
   margin-left: 620px;
   margin-bottom: 30px;
@@ -58,8 +58,8 @@ body {
 
 .Socials{
   background-color: rgba(180, 221, 231, 0.95);
-  padding: 14px;
-  width: 630px;
+  padding: 8px;
+  width: 633px;
   border-radius: 10px;
   margin-bottom: 20px;
   margin-left: 620px;
