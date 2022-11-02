@@ -1,0 +1,89 @@
+body {
+  font-family: 'PT Sans', sans-serif;
+  background-color: #e899b5c5;
+  color: rgb(123, 6, 123);
+  text-align: center;
+  padding: 25px;
+  background-image: url(/images/Coding.jpg) no-repeat;
+  background-position: right;
+}
+
+#profile-pic {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+.Coding_Image {
+  float: left;
+  border-radius: 10px;
+}
+
+.Opening {
+  background-color: rgba(180, 221, 231, 0.95);
+  padding: 36px;
+  width: 590px;
+  border-radius: 10px;
+  margin-bottom: 30px;
+  margin-left: 620px;
+  background-attachment:fixed;
+  background-position: left top;
+  background-repeat: no-repeat;
+  border: 7px solid rgb(177, 78, 129);
+  box-shadow: 0 0 16px rgba(0,0,0,0.1);
+
+}
+
+.Description{
+  background-color: rgba(180, 221, 231, 0.95);
+  padding: 36px;
+  width: 590px;
+  border-radius: 10px;
+  margin-left: 620px;
+  margin-bottom: 30px;
+  border: 7px solid rgb(177, 78, 129);
+  box-shadow: 0 0 16px rgba(0,0,0,0.1);
+}
+
+.Socials{
+  background-color: rgba(180, 221, 231, 0.95);
+  padding: 14px;
+  width: 630px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  margin-left: 620px;
+  border: 7px solid rgb(177, 78, 129);
+  box-shadow: 0 0 16px rgba(0,0,0,0.1);
+}
+
+.Hope{
+  margin : 0 auto;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+}
+
+@media (max-width: 960px) {
+  .container {
+    width: 700px;
+  }
+}
+
+@media (max-width: 720px) {
+  .container {
+    width: 500px;
+  }
+}
+
+@media (max-width: 540px) {
+  .container {
+    width: 300px;
+  }
+}
