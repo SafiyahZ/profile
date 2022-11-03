@@ -23,7 +23,7 @@ body {
 .Opening {
   background-color: rgba(180, 221, 231, 0.95);
   padding: 20px;
-  width: 590px;
+  width: 600px;
   border-radius: 10px;
   margin-bottom: 30px;
   margin-left: 620px;
@@ -37,6 +37,10 @@ body {
 
 .Button {
   width: 150px;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 10px 10px;
+  padding: 5px;
 }
 
 .Button:hover {
@@ -49,6 +53,7 @@ body {
   background-color: rgba(180, 221, 231, 0.95);
   padding: 20px;
   width: 600px;
+  height: 150px;
   border-radius: 10px;
   margin-left: 620px;
   margin-bottom: 30px;
@@ -58,8 +63,9 @@ body {
 
 .Socials{
   background-color: rgba(180, 221, 231, 0.95);
-  padding: 8px;
-  width: 633px;
+  padding: 15px;
+  width: 612px;
+  height: 150x;
   border-radius: 10px;
   margin-bottom: 20px;
   margin-left: 620px;
